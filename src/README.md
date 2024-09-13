@@ -36,4 +36,4 @@ Checks if the specified port is available.
 
 ## License
 
-MIT © [[BeyondJS](https://beyondjs)]
+MIT © [[BeyondJS](https://beyondjs.com)]
